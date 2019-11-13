@@ -1,7 +1,7 @@
 # FrontierMap
 
 
-## Repository for my FrontierMap project  
+## Repository for the FrontierMap project  
 
 This repo is for a wide ranging collection of educational materials in order to create a wide range of primers for those interested in working on the advanced topics such as cognitive science, embodied cognition, and learning. The scope is inherently multidisciplinary, and the primary facet of the project will take some time to complete. As much as "map" of sorts aims to be a final deliverable, there will be shorter term items such as literature reviews, coding projects, and other products that will compromise the individual bricks to be stacked along the way, creating the foundation and structure of overall endeavor. 
 
