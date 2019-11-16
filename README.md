@@ -10,6 +10,12 @@ While this is a self-generated, I appreciate the guidenace of Dr Bradley Alicea 
 
 I appreciate collaborative and constructive input!
 
+### Method
+- Using GitHub and Jupyter Notebooks to store and create educational materials
+- In the future, there may also be advances visualizations, interactive timelines, videos, and articles/blogposts created.
+
+
+
 ## Project Log Updates
 Here is a selection of milstones in tracking the course of the FrontierMap project. For more information, see [my website](https://sites.google.com/view/jesparent) or the [Project Section](https://github.com/jesparent/FrontierMap/projects) of this Repo. 
 
