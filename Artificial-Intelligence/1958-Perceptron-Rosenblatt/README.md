@@ -3,3 +3,4 @@
 
 https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/
 https://towardsdatascience.com/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a 
+https://developer.ibm.com/articles/cc-cognitive-neural-networks-deep-dive/
