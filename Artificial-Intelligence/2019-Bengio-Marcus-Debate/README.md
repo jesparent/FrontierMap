@@ -7,3 +7,9 @@ https://www.eventbrite.ca/e/debate-yoshua-bengio-gary-marcus-live-streaming-tick
 ## Resources
 
 https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6 
+
+
+How transferable are features in deep neural networks?
+Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson
+https://arxiv.org/abs/1411.1792
+
