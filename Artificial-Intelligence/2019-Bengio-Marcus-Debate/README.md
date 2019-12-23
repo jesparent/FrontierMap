@@ -1,5 +1,7 @@
-# Event 
-DEBATE : YOSHUA BENGIO | GARY MARCUS — LIVE STREAMING Yoshua Bengio and Gary Marcus on the best way forward for AI Moderated by Vincent Boucher
+# Event: 2019 December 23, Monday at 6:30PM EST 
+DEBATE : YOSHUA BENGIO | GARY MARCUS 
+LIVE STREAMING 
+Yoshua Bengio and Gary Marcus on the best way forward for AI Moderated by Vincent Boucher
 
 https://www.eventbrite.ca/e/debate-yoshua-bengio-gary-marcus-live-streaming-tickets-81620778947
 
