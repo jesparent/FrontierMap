@@ -30,3 +30,6 @@ How transferable are features in deep neural networks?
 Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson
 https://arxiv.org/abs/1411.1792
 
+### "The First Debate"
+Some have mentioned this webinar debate will be a "sequal" - here is a more personal recount (per Marcus) of what has transpired:  https://medium.com/@GaryMarcus/the-current-state-of-ai-and-deep-learning-a-reply-to-yoshua-bengio-77952ead7970
+
