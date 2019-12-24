@@ -25,12 +25,6 @@ Eliminative  Connectionism, Gary Marcus, 1998:https://www.sciencedirect.com/scie
 
 ## Resources
 
-https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6 
-
-
-How transferable are features in deep neural networks?
-Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson
-https://arxiv.org/abs/1411.1792
 
 ### "The First Debate"
 Some have mentioned this webinar debate will be a "sequal" - here is a more personal recount (per Marcus) of what has transpired:  https://medium.com/@GaryMarcus/the-current-state-of-ai-and-deep-learning-a-reply-to-yoshua-bengio-77952ead7970
@@ -38,3 +32,18 @@ Some have mentioned this webinar debate will be a "sequal" - here is a more pers
 ### Pre-Debate Discussion
 https://www.twitch.tv/rhyolight_
 "Today, before the #AIDebate, I'll have a Pre-Debate Show on my @Twitch channel (https://twitch.tv/rhyolight_) featuring  @GaryMarcus's last debate with @ylecun. I'll be kicking the tires of the voting system I set up during this time. Please come join for some fun discussion. 1PM PST."
+
+### Blog Posts & Articles
+https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6 
+
+How transferable are features in deep neural networks?
+Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson
+https://arxiv.org/abs/1411.1792
+
+### Papers
+##### Marcus
+* Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation https://www.frontiersin.org/articles/10.3389/fncom.2017.00024/full
+
+* Deep Learning: A Critical Appraisal - Gary Marcus https://arxiv.org/abs/1801.00631?
+##### Bengio
+* The Consciousness Prior https://arxiv.org/abs/1709.08568
