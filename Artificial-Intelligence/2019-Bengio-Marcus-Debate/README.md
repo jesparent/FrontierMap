@@ -7,11 +7,6 @@ https://www.eventbrite.ca/e/debate-yoshua-bengio-gary-marcus-live-streaming-tick
 
   YouTube Recording: https://www.youtube.com/watch?v=pKgseaENkAU
 
-## Recommended Pre-Readings
-
-
-Gary Marcus’s Pre-Readings
-
 
 ## Resources
 
@@ -19,22 +14,12 @@ Gary Marcus’s Pre-Readings
 ### "The First Debate"
 Some have mentioned this webinar debate will be a "sequal" - here is a more personal recount (per Marcus) of what has transpired:  https://medium.com/@GaryMarcus/the-current-state-of-ai-and-deep-learning-a-reply-to-yoshua-bengio-77952ead7970
 
-### Blog Posts & Articles
-https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6 
-
-How transferable are features in deep neural networks?
-Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson
-https://arxiv.org/abs/1411.1792
-
-##### Pre-Debate Discussion
-"Today, before the #AIDebate, I'll have a Pre-Debate Show on my @Twitch channel (https://twitch.tv/rhyolight_) featuring  @GaryMarcus's last debate with @ylecun."
-
-### Papers
+### Papers & Textbooks
 
 ##### Marcus
-* Rebooting AI(Chapters 4 and 7), Gary Marcus and Ernest Davis, 2019
-* The Algebraic Mind(Chapters 3 - 5), Gary Marcus, 2001
-* The Birth of the Mind(Chapters 6 - 8), Gary Marcus, 2004
+* Rebooting AI (Chapters 4 and 7), Gary Marcus and Ernest Davis, 2019
+* The Algebraic Mind (Chapters 3 - 5), Gary Marcus, 2001
+* The Birth of the Mind (Chapters 6 - 8), Gary Marcus, 2004
 * Deep Learning: A Critical Appraisal, Gary Marcus, 2018:https://arxiv.org/abs/1801.00631.vInnateness, 
 * AlphaZero, and Artificial Intelligence, Gary Marcus, 2018:https://arxiv.org/abs/1801.05667.vRethinking  
 * Eliminative  Connectionism, Gary Marcus, 1998:https://www.sciencedirect.com/science/article/pii/S0010028598906946
@@ -50,4 +35,17 @@ https://arxiv.org/abs/1411.1792
 * Independent Mechanisms, Goyal et al., 2019: https://arxiv.org/abs/1909.10893.vThe 
 * ^ Suggested Pre-Readings
 * Consciousness Prior, Bengio et al., 2017: https://arxiv.org/abs/1709.08568.2
+
+### Blog Posts & Articles
+https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6 
+
+How transferable are features in deep neural networks?
+Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson
+https://arxiv.org/abs/1411.1792
+
+Pre-Debate Discussion: "Today, before the #AIDebate, I'll have a Pre-Debate Show on my @Twitch channel (https://twitch.tv/rhyolight_) featuring  @GaryMarcus's last debate with @ylecun."
+
+
+## Post-Debate
+* Recap by Tiernan Ray: https://www.zdnet.com/article/devils-in-the-details-in-bengio-marcus-ai-debate/
 
