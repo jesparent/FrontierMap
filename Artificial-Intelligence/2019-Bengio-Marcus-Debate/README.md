@@ -5,6 +5,8 @@ Yoshua Bengio and Gary Marcus on the best way forward for AI Moderated by Vincen
 
 https://www.eventbrite.ca/e/debate-yoshua-bengio-gary-marcus-live-streaming-tickets-81620778947
 
+  YouTube Recording: https://www.youtube.com/watch?v=pKgseaENkAU
+
 ## Recommended Pre-Readings
 
 
@@ -28,6 +30,7 @@ https://arxiv.org/abs/1411.1792
 "Today, before the #AIDebate, I'll have a Pre-Debate Show on my @Twitch channel (https://twitch.tv/rhyolight_) featuring  @GaryMarcus's last debate with @ylecun."
 
 ### Papers
+
 ##### Marcus
 * Rebooting AI(Chapters 4 and 7), Gary Marcus and Ernest Davis, 2019
 * The Algebraic Mind(Chapters 3 - 5), Gary Marcus, 2001
@@ -37,8 +40,8 @@ https://arxiv.org/abs/1411.1792
 * Eliminative  Connectionism, Gary Marcus, 1998:https://www.sciencedirect.com/science/article/pii/S0010028598906946
 * ^ Suggested Pre-Readings
 * Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation https://www.frontiersin.org/articles/10.3389/fncom.2017.00024/full
-
 * Deep Learning: A Critical Appraisal - Gary Marcus https://arxiv.org/abs/1801.00631?
+
 ##### Bengio
 * BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop, Chevalier-Boisvert et al.,2018: https://arxiv.org/abs/1810.08272v2.vA  
 * First Steps Towards Grounded Language Learning With a Human In the Loop, Chevalier-Boisvert et al.,2018: https://arxiv.org/abs/1810.08272v2.vA
