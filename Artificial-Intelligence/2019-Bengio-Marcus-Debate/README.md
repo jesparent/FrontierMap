@@ -1,7 +1,5 @@
-# Event: 2019 December 23, Monday at 6:30PM EST 
-DEBATE : YOSHUA BENGIO | GARY MARCUS 
-LIVE STREAMING 
-Yoshua Bengio and Gary Marcus on the best way forward for AI Moderated by Vincent Boucher
+# Debate: Yoshua Bengio & Gary Marcus on the best way forward for AI 
+## 2019 December 23, Monday at 6:30PM EST | Moderated by Vincent Boucher
 
 https://www.eventbrite.ca/e/debate-yoshua-bengio-gary-marcus-live-streaming-tickets-81620778947
 
@@ -9,13 +7,10 @@ https://www.eventbrite.ca/e/debate-yoshua-bengio-gary-marcus-live-streaming-tick
 
 
 ## Resources
-
-
 ### "The First Debate"
 Some have mentioned this webinar debate will be a "sequal" - here is a more personal recount (per Marcus) of what has transpired:  https://medium.com/@GaryMarcus/the-current-state-of-ai-and-deep-learning-a-reply-to-yoshua-bengio-77952ead7970
 
 ### Papers & Textbooks
-
 ##### Marcus
 * Rebooting AI (Chapters 4 and 7), Gary Marcus and Ernest Davis, 2019
 * The Algebraic Mind (Chapters 3 - 5), Gary Marcus, 2001
