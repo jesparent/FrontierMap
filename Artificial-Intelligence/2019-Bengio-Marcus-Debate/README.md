@@ -30,13 +30,11 @@ Some have mentioned this webinar debate will be a "sequal" - here is a more pers
 * Independent Mechanisms, Goyal et al., 2019: https://arxiv.org/abs/1909.10893.vThe 
 * ^ Suggested Pre-Readings
 * Consciousness Prior, Bengio et al., 2017: https://arxiv.org/abs/1709.08568.2
+- How transferable are features in deep neural networks? Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson https://arxiv.org/abs/1411.1792
 
 ### Blog Posts & Articles
 - https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6 
 
-- How transferable are features in deep neural networks?
-Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson
-https://arxiv.org/abs/1411.1792
 
 - Pre-Debate Discussion: "Today, before the #AIDebate, I'll have a Pre-Debate Show on my @Twitch channel (https://twitch.tv/rhyolight_) featuring  @GaryMarcus's last debate with @ylecun."
 
