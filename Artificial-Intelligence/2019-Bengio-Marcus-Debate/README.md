@@ -1,5 +1,5 @@
 # Debate: Yoshua Bengio & Gary Marcus on the best way forward for AI 
-*2019 December 23, Monday at 6:30PM EST | Moderated by Vincent Boucher*
+*2019 December 23, Monday at 6:30PM EST | Moderated by Vincent Boucher | #AIDebate*
 
 Event: https://www.eventbrite.ca/e/debate-yoshua-bengio-gary-marcus-live-streaming-tickets-81620778947
 
@@ -32,13 +32,13 @@ Some have mentioned this webinar debate will be a "sequal" - here is a more pers
 * Consciousness Prior, Bengio et al., 2017: https://arxiv.org/abs/1709.08568.2
 
 ### Blog Posts & Articles
-https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6 
+- https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6 
 
-How transferable are features in deep neural networks?
+- How transferable are features in deep neural networks?
 Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson
 https://arxiv.org/abs/1411.1792
 
-Pre-Debate Discussion: "Today, before the #AIDebate, I'll have a Pre-Debate Show on my @Twitch channel (https://twitch.tv/rhyolight_) featuring  @GaryMarcus's last debate with @ylecun."
+- Pre-Debate Discussion: "Today, before the #AIDebate, I'll have a Pre-Debate Show on my @Twitch channel (https://twitch.tv/rhyolight_) featuring  @GaryMarcus's last debate with @ylecun."
 
 
 ## Post-Debate
