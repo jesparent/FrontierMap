@@ -41,5 +41,5 @@ Some have mentioned this webinar debate will be a "sequal" - here is a more pers
 
 ## Post-Debate
 * Recap by Tiernan Ray: https://www.zdnet.com/article/devils-in-the-details-in-bengio-marcus-ai-debate/
-* Additional YouTube housing by Lex Friedman, with some interesting/different comments below the video: https://www.youtube.com/watch?v=pKgseaENkAU 
+* Additional YouTube housing by Lex Fridman, with some interesting/different comments below the video: https://www.youtube.com/watch?v=pKgseaENkAU 
 
