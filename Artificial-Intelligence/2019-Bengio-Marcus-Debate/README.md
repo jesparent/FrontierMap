@@ -8,7 +8,7 @@ Home Page: [Montreal AI](https://montrealartificialintelligence.com/aidebate/), 
   Presentation Slides: [Marcus](https://montrealartificialintelligence.com/aidebate/slidesmarcus.pdf), [Bengio](https://montrealartificialintelligence.com/aidebate/slidesbengio.pdf)
 
 
-## Post-Debate
+## Post-Debate Materials
 ### Ongoing Discussion
 1. Marcus:  [Bengio-Marcus AI Debate Post Mortem, Part I: The Deep Learning Pivot](https://medium.com/@GaryMarcus/bengio-marcus-ai-debate-post-mortem-part-i-the-deep-learning-pivot-f7bd62b9861c?)
 1. Bengio: ["Response to Gary Marcus - December 26th 2019"](https://docs.google.com/document/d/1P9YyZ4xEDO98qPTa1Al4RnTqxj3mMiCvQE4i3hZkthY/edit?usp=sharin)
@@ -20,9 +20,9 @@ Home Page: [Montreal AI](https://montrealartificialintelligence.com/aidebate/), 
 * Additional YouTube housing by Lex Fridman, with some interesting/different comments below the video: https://www.youtube.com/watch?v=pKgseaENkAU 
 
 
-## Pre-Debate Resources
+## Pre-Debate Materials
 ### "The First Debate"
-Some have mentioned this webinar debate will be a "sequal" - here is a more personal recount (per Marcus) of what has transpired:  https://medium.com/@GaryMarcus/the-current-state-of-ai-and-deep-learning-a-reply-to-yoshua-bengio-77952ead7970
+Some have mentioned this webinar debate will be a "sequal" - here is a [more personal recount (per Marcus) of what has transpired](https://medium.com/@GaryMarcus/the-current-state-of-ai-and-deep-learning-a-reply-to-yoshua-bengio-77952ead7970)
 
 ### Papers & Textbooks
 ##### Marcus
@@ -46,8 +46,9 @@ Some have mentioned this webinar debate will be a "sequal" - here is a more pers
 * Consciousness Prior, Bengio et al., 2017: https://arxiv.org/abs/1709.08568.2
 - How transferable are features in deep neural networks? Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson https://arxiv.org/abs/1411.1792
 
-### Blog Posts & Articles
-- https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6 
+### Related Content
+- Lex Fridman [AGI Podcast (Transcript) with Marcus Gary](https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6)
 - Pre-Debate Discussion: "Today, before the #AIDebate, I'll have a Pre-Debate Show on my @Twitch channel (https://twitch.tv/rhyolight_) featuring  @GaryMarcus's last debate with @ylecun."
+- Yann LeCunn on [Facebook: What is Deep Learning](https://www.facebook.com/722677142/posts/10156463919392143/) "Some folks still seem confused about what deep learning is. Here is a definition: DL is constructing networks of parameterized functional modules & training them from examples using gradient-based optimization. That's it. This definition is orthogonal to the learning paradigm: reinforcement, supervised, or self-supervised." (excerpt)
 
 
