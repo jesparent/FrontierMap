@@ -16,7 +16,7 @@ Home Page: [Montreal AI](https://montrealartificialintelligence.com/aidebate/), 
 ](https://medium.com/@GaryMarcus/a-research-program-is-not-a-set-of-techniques-a-brief-response-to-yoshua-bengios-december-26-fafc0a29ffc9)
 
 ### Outside Commentary
-* Recap by Tiernan Ray: https://www.zdnet.com/article/devils-in-the-details-in-bengio-marcus-ai-debate/
+* Recap by [Tiernan Ray](https://www.zdnet.com/article/devils-in-the-details-in-bengio-marcus-ai-debate/) "Devil’s in the details in Historic AI debate: An historic debate between two of the artificial intelligence illuminati was mostly simpatico on the big questions -- creating hybrid systems of AI, finding the right "priors" for knowledge -- but it was also punctuated by sharp differences on some of the details."
 * Additional YouTube housing by Lex Fridman, with some interesting/different comments below the video: https://www.youtube.com/watch?v=pKgseaENkAU 
 
 
