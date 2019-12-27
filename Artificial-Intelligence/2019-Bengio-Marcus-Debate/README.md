@@ -41,5 +41,6 @@ Some have mentioned this webinar debate will be a "sequal" - here is a more pers
 
 ## Post-Debate
 * Recap by Tiernan Ray: https://www.zdnet.com/article/devils-in-the-details-in-bengio-marcus-ai-debate/
+* Marcus on Medium: [Bengio-Marcus AI Debate Post Mortem, Part I: The Deep Learning Pivot](https://medium.com/@GaryMarcus/bengio-marcus-ai-debate-post-mortem-part-i-the-deep-learning-pivot-f7bd62b9861c?)
 * Additional YouTube housing by Lex Fridman, with some interesting/different comments below the video: https://www.youtube.com/watch?v=pKgseaENkAU 
 
