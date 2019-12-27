@@ -20,7 +20,7 @@ Home Page: [Montreal AI](https://montrealartificialintelligence.com/aidebate/), 
 * Additional YouTube housing by Lex Fridman, with some interesting/different comments below the video: https://www.youtube.com/watch?v=pKgseaENkAU 
 
 
-## Resources
+## Pre-Debate Resources
 ### "The First Debate"
 Some have mentioned this webinar debate will be a "sequal" - here is a more personal recount (per Marcus) of what has transpired:  https://medium.com/@GaryMarcus/the-current-state-of-ai-and-deep-learning-a-reply-to-yoshua-bengio-77952ead7970
 
