@@ -41,10 +41,10 @@ Some have mentioned this webinar debate will be a "sequal" - here is a more pers
 
 ## Post-Debate
 * Recap by Tiernan Ray: https://www.zdnet.com/article/devils-in-the-details-in-bengio-marcus-ai-debate/
-* Marcus on Medium: 
-  * [Bengio-Marcus AI Debate Post Mortem, Part I: The Deep Learning Pivot](https://medium.com/@GaryMarcus/bengio-marcus-ai-debate-post-mortem-part-i-the-deep-learning-pivot-f7bd62b9861c?)
-  * [A research program is not a set of techniques: A brief response to Yoshua Bengio’s December 26 reply to me
-](https://medium.com/@GaryMarcus/a-research-program-is-not-a-set-of-techniques-a-brief-response-to-yoshua-bengios-december-26-fafc0a29ffc9)
 * Additional YouTube housing by Lex Fridman, with some interesting/different comments below the video: https://www.youtube.com/watch?v=pKgseaENkAU 
 
-
+## Ongoing Discussion
+1. Marcus:  [Bengio-Marcus AI Debate Post Mortem, Part I: The Deep Learning Pivot](https://medium.com/@GaryMarcus/bengio-marcus-ai-debate-post-mortem-part-i-the-deep-learning-pivot-f7bd62b9861c?)
+1. Bengio: ["Response to Gary Marcus - December 26th 2019"](https://docs.google.com/document/d/1P9YyZ4xEDO98qPTa1Al4RnTqxj3mMiCvQE4i3hZkthY/edit?usp=sharin)
+1. Marcus: [A research program is not a set of techniques: A brief response to Yoshua Bengio’s December 26 reply to me
+](https://medium.com/@GaryMarcus/a-research-program-is-not-a-set-of-techniques-a-brief-response-to-yoshua-bengios-december-26-fafc0a29ffc9)
