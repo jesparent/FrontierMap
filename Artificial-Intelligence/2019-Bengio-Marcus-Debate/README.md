@@ -6,6 +6,18 @@ Event: https://www.eventbrite.ca/e/debate-yoshua-bengio-gary-marcus-live-streami
   YouTube Recording: https://www.youtube.com/watch?v=pKgseaENkAU
 
 
+## Post-Debate
+### Ongoing Discussion
+1. Marcus:  [Bengio-Marcus AI Debate Post Mortem, Part I: The Deep Learning Pivot](https://medium.com/@GaryMarcus/bengio-marcus-ai-debate-post-mortem-part-i-the-deep-learning-pivot-f7bd62b9861c?)
+1. Bengio: ["Response to Gary Marcus - December 26th 2019"](https://docs.google.com/document/d/1P9YyZ4xEDO98qPTa1Al4RnTqxj3mMiCvQE4i3hZkthY/edit?usp=sharin)
+1. Marcus: [A research program is not a set of techniques: A brief response to Yoshua Bengio’s December 26 reply to me
+](https://medium.com/@GaryMarcus/a-research-program-is-not-a-set-of-techniques-a-brief-response-to-yoshua-bengios-december-26-fafc0a29ffc9)
+
+### Outside Commentary
+* Recap by Tiernan Ray: https://www.zdnet.com/article/devils-in-the-details-in-bengio-marcus-ai-debate/
+* Additional YouTube housing by Lex Fridman, with some interesting/different comments below the video: https://www.youtube.com/watch?v=pKgseaENkAU 
+
+
 ## Resources
 ### "The First Debate"
 Some have mentioned this webinar debate will be a "sequal" - here is a more personal recount (per Marcus) of what has transpired:  https://medium.com/@GaryMarcus/the-current-state-of-ai-and-deep-learning-a-reply-to-yoshua-bengio-77952ead7970
@@ -34,17 +46,6 @@ Some have mentioned this webinar debate will be a "sequal" - here is a more pers
 
 ### Blog Posts & Articles
 - https://medium.com/@julian.harris/the-future-of-ai-gary-marcus-talks-with-lex-fridman-9ecd497abbe6 
-
-
 - Pre-Debate Discussion: "Today, before the #AIDebate, I'll have a Pre-Debate Show on my @Twitch channel (https://twitch.tv/rhyolight_) featuring  @GaryMarcus's last debate with @ylecun."
 
 
-## Post-Debate
-* Recap by Tiernan Ray: https://www.zdnet.com/article/devils-in-the-details-in-bengio-marcus-ai-debate/
-* Additional YouTube housing by Lex Fridman, with some interesting/different comments below the video: https://www.youtube.com/watch?v=pKgseaENkAU 
-
-## Ongoing Discussion
-1. Marcus:  [Bengio-Marcus AI Debate Post Mortem, Part I: The Deep Learning Pivot](https://medium.com/@GaryMarcus/bengio-marcus-ai-debate-post-mortem-part-i-the-deep-learning-pivot-f7bd62b9861c?)
-1. Bengio: ["Response to Gary Marcus - December 26th 2019"](https://docs.google.com/document/d/1P9YyZ4xEDO98qPTa1Al4RnTqxj3mMiCvQE4i3hZkthY/edit?usp=sharin)
-1. Marcus: [A research program is not a set of techniques: A brief response to Yoshua Bengio’s December 26 reply to me
-](https://medium.com/@GaryMarcus/a-research-program-is-not-a-set-of-techniques-a-brief-response-to-yoshua-bengios-december-26-fafc0a29ffc9)
