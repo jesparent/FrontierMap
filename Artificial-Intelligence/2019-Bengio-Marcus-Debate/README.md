@@ -14,6 +14,7 @@ Home Page: [Montreal AI](https://montrealartificialintelligence.com/aidebate/), 
 1. Bengio: ["Response to Gary Marcus - December 26th 2019"](https://docs.google.com/document/d/1P9YyZ4xEDO98qPTa1Al4RnTqxj3mMiCvQE4i3hZkthY/edit?usp=sharin)
 1. Marcus: [A research program is not a set of techniques: A brief response to Yoshua Bengio’s December 26 reply to me
 ](https://medium.com/@GaryMarcus/a-research-program-is-not-a-set-of-techniques-a-brief-response-to-yoshua-bengios-december-26-fafc0a29ffc9)
+1. Marcus: [Deep learning, science, engineering, research, and terminology](https://medium.com/@GaryMarcus/deep-learning-science-engineering-research-and-terminology-292a747a94d3)
 
 ### Outside Commentary
 * Recap by [Tiernan Ray](https://www.zdnet.com/article/devils-in-the-details-in-bengio-marcus-ai-debate/) "Devil’s in the details in Historic AI debate: An historic debate between two of the artificial intelligence illuminati was mostly simpatico on the big questions -- creating hybrid systems of AI, finding the right "priors" for knowledge -- but it was also punctuated by sharp differences on some of the details."
