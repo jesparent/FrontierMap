@@ -1,7 +1,7 @@
 # Systems (Interdisciplinary)
 
 Terms: 
-actictive inference, 
+active inference, 
 cybernetics,
 dynamical systems
 embodied cognition,
