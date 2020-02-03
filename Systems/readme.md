@@ -11,6 +11,7 @@ Markov blanket,
 self-organization,
 
 ## Biological Autonomy
+- Principles of Biological Autonomy: Francesgo Varela
 - Biological Autonomy: A Philosophical and Theoretical Enquiry (Moreno, Alvaro, Mossio, Matteo)
 
 ## Cybernetics
