@@ -2,12 +2,16 @@
 
 Terms: 
 active inference, 
+biological autonomy,
 cybernetics, 
 dynamical systems, 
 embodied cognition,
 free-energy principle, 
 Markov blanket, 
 self-organization,
+
+## Biological Autonomy
+- Biological Autonomy: A Philosophical and Theoretical Enquiry (Moreno, Alvaro, Mossio, Matteo)
 
 ## Cybernetics
 
