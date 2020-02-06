@@ -21,6 +21,7 @@ I appreciate collaborative and constructive input!
 ## Project Log Updates
 Here is a selection of milstones in tracking the course of the FrontierMap project. For more information, see [my website](https://sites.google.com/view/jesparent) or the [Project Section](https://github.com/jesparent/FrontierMap/projects) of this Repo. 
 
+- 2020.02.06 Adding Mathematics Branch, and work on Embodied Cognition (part of Orthogonal Lab works)
 - 2019.12.30 Major Updates for #AIDebate (Marcus - Bengio)
 - 2019.10.25 Project Inception
 
