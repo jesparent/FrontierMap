@@ -27,7 +27,7 @@ Here is a selection of milstones in tracking the course of the FrontierMap proje
 
 
 ## Sub Projects
-- Coggnitive Science & Embodied Cognition Timeline
+- Cognitive Science & Embodied Cognition Timeline
 - Literature Review: BV + Neurobehavioral Complexity Layer Toggling
 - Literature Review: Every Good Regulator Theorem
 - Visual Maps: Emergence 
