@@ -1,3 +1,7 @@
+### Sypnopsis
+https://www.uky.edu/~eushe2/Pajares/kuhnsyn.html
+
+### Wikipedia
 https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions#Phases 
 
 Kuhn explains the process of scientific change as the result of various phases of paradigm change.
