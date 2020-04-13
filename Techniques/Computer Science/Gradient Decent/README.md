@@ -1,0 +1,1 @@
+- Gradient descent, how neural networks learn | Deep learning, chapter 2  [3brown1blue, YouTube Video](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2)
