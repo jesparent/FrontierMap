@@ -1,4 +1,4 @@
-See https://github.com/jesparent/Introduction-to-Agent-Based-Modeling 
+
 
 ### Centralized Mind
 Mitchel Resnick https://llk.media.mit.edu/papers/decentralized/ 
