@@ -21,6 +21,8 @@ I appreciate collaborative and constructive input!
 ## Project Log Updates
 Here is a selection of milstones in tracking the course of the FrontierMap project. For more information, see [my website](https://sites.google.com/view/jesparent) or the [Project Section](https://github.com/jesparent/FrontierMap/projects) of this Repo. 
 
+- 2020.06.15 Updates underway for Ideas: incorporation of Phillosophy & Timeline
+- 2020.03-05 Project on Haitus during COVID-19 Pandemic and other issues
 - 2020.03.10 Addition of broad folder categories: techniques, discoveries, ideas
 - 2020.03.05 Acceptance of related talk at CSV,conf,v5 conference in Washington DC
 - 2020.02.06 Adding Mathematics Branch, and work on Embodied Cognition (part of Orthogonal Lab works)
