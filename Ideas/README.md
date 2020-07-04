@@ -10,6 +10,7 @@ A lover of wisdom, a "Philosopher", may seek out The Conversation. We all here i
 
 >  "We know that for a long time everything we do will be nothing more than the jumping off point for those who have the advantage of already being aware of our ultimate results. This is the meaning of the famous apothegm of Newton, when he said, "If I have seen further than other men, it is because I have stood on the shoulders of giants". - Norbert Wiener
 
+> “Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”    — Albert Einstein
 
 ### Log
 - 20.07.03 Official shift to "philosophy", and inclusion of The Long Conversation. 
