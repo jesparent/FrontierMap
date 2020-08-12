@@ -21,6 +21,8 @@ I appreciate collaborative and constructive input!
 ## Project Log Updates
 Here is a selection of milstones in tracking the course of the FrontierMap project. For more information, see [my website](https://sites.google.com/view/jesparent) or the [Project Section](https://github.com/jesparent/FrontierMap/projects) of this Repo. 
 
+- 2020.08.01 Establishment of Cognition Study Group
+- 2020.07.xx Neuromatch Academy & related preparations. Insights gained into online education and crafting educational materials
 - 2020.06.15 Updates underway for Ideas: incorporation of Phillosophy & Timeline
 - 2020.03-05 Project on Haitus during COVID-19 Pandemic and other issues
 - 2020.03.10 Addition of broad folder categories: techniques, discoveries, ideas
